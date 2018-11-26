@@ -2,6 +2,6 @@
 
 This is solidity study.
 
-## Docuementations
+## Documentations
 
 We upload some documents in this repository
